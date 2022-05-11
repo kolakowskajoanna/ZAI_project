@@ -3,7 +3,8 @@
 # Projekt realizowany w ramach przedmiotu Zaawansowane Aplikacje Internetowe.
 
 Technologia:   
-BE - Node.js  
+Pajton - django
+
 Autorzy:  
 Joanna Kołakowska  
 Dagmara Kabała  
