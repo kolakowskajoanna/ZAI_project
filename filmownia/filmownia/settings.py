@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'FilmowniaaConfig'
-    'django_filters',
+    'filmowniaa.apps.FilmowniaaConfig',
+    # 'django_filters',
 ]
 
 MIDDLEWARE = [
