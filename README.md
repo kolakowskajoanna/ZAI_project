@@ -1,3 +1,4 @@
+### DEPRECATED go to-> https://github.com/kolakowskajoanna/project_zai
 ## ZAI
 
 # Projekt realizowany w ramach przedmiotu Zaawansowane Aplikacje Internetowe.
